@@ -6,8 +6,8 @@ public class Desktop extends computer{
 		
 		
 	}
-	private void anandBranch() {
-System.out.println("Anand is working on this baranch");
+	private void kumarBranch() {
+System.out.println("kumar is working on this baranch");
 	}
 public static void main(String[] args) {
 	Desktop d=new Desktop();
